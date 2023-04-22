@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest_2_app_react/static/css/main.e37cb6c4.css",
+    "main.js": "/contest_2_app_react/static/js/main.afe0b47e.js",
+    "index.html": "/contest_2_app_react/index.html",
+    "main.e37cb6c4.css.map": "/contest_2_app_react/static/css/main.e37cb6c4.css.map",
+    "main.afe0b47e.js.map": "/contest_2_app_react/static/js/main.afe0b47e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37cb6c4.css",
+    "static/js/main.afe0b47e.js"
+  ]
+}
